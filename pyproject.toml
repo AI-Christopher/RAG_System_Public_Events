@@ -1,0 +1,10 @@
+[project]
+name = "rag-system-public-events"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.27",
+    "mistral>=21.0.0",
+]
